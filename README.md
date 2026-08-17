@@ -16,20 +16,8 @@
 
 I'm a **Backend Software Engineer** focused on performance, scalable systems, and distributed workflows. I like taking a slow API or a naive single-instance service and turning it into something that holds up under real concurrent load.
 
-```
-const anmol = {
-    role: "Backend Software Engineer",
-    location: "Amritsar, Punjab, India",
-    education: "B.Tech CSE @ Guru Nanak Dev University (2023 - 2027)",
-    currentlyBuilding: "TT Platform — real-time tournament platform, live on Android",
-    exploring: ["distributed systems", "workflow orchestration", "AI-assisted infra"],
-    funFact: "reduced a production API's latency by 76% before graduating"
-};
-```
-
-- 🔭 Currently building **TT Platform**, a real-time tournament platform live on Android
+- 🔭 Currently building **DistriLimit**, a distributed rate-limiting gateway with an adaptive Spring AI layer
 - 🌱 Exploring **distributed systems**, **workflow orchestration**, and **AI-assisted infrastructure**
-- 💬 Ask me about: **Java, Go, Spring Boot, Redis, Kafka, PostgreSQL, system design**
 - 📫 Reach me at: **mahajn1608@gmail.com**
 
 ---
@@ -65,8 +53,7 @@ const anmol = {
 <p align="center">
   <b>Tools</b><br>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 ---
@@ -132,6 +119,11 @@ Distributed rate-limiting gateway implementing Token Bucket, Leaky Bucket, and S
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AnmolMahajan-sys&theme=tokyonight&no-frame=true&no-bg=true" />
+</p>
+
+<p align="center">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="70" height="70" alt="YOLO Badge" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="70" height="70" alt="Pull Shark Badge" />
 </p>
 
 ---
