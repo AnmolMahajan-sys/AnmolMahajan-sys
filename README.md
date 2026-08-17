@@ -97,13 +97,10 @@ Distributed rate-limiting gateway implementing Token Bucket, Leaky Bucket, and S
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AnmolMahajan-sys&show_icons=true&theme=tokyonight&cache_seconds=7200" />
   <img width="48%" src="https://streak-stats.demolab.com?user=AnmolMahajan-sys&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnmolMahajan-sys&layout=compact&theme=tokyonight&cache_seconds=7200" />
-</p>
+
 
 ---
 
@@ -117,9 +114,7 @@ Distributed rate-limiting gateway implementing Token Bucket, Leaky Bucket, and S
 
 ### 🏅 GitHub Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AnmolMahajan-sys&theme=tokyonight&no-frame=true&no-bg=true" />
-</p>
+
 
 <p align="center">
   <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="70" height="70" alt="YOLO Badge" />
