@@ -98,16 +98,8 @@ Distributed rate-limiting gateway implementing Token Bucket, Leaky Bucket, and S
 <p align="center">
   <img width="48%" src="https://streak-stats.demolab.com?user=AnmolMahajan-sys&theme=tokyonight&hide_border=true" />
 </p>
+![](https://github-readme-stats.shion.dev/api?username=AnmolMahajan-sys&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false)<br/>
 
-
-
----
-
-### 📈 Activity Graph
-
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=AnmolMahajan-sys&theme=tokyo-night&hide_border=true" />
-</p>
 
 ---
 
