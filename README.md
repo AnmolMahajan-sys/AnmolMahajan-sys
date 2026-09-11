@@ -7,6 +7,8 @@
 <p align="center">
   <img src="https://img.shields.io/github/followers/AnmolMahajan-sys?label=Followers&style=flat&color=00ADB5" />
   <img src="https://img.shields.io/badge/Available%20for-Backend%20Roles-2ea44f?style=flat" />
+  
+  [Resume](./Resume_Anmol(1).pdf)
 </p>
 
 ---
